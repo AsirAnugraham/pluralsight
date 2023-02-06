@@ -93,4 +93,4 @@ public class Post {
         return this.title.equals(otherPost.getTitle()) &&
                this.body.equals(otherPost.getBody());
     }
-}
+}}
